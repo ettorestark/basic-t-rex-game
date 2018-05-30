@@ -1,0 +1,14 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#showGame {
+	width: 550px;
+	margin: 0 auto;
+}
+
+#showGame canvas {
+	border: 1px solid #ccc;
+}
